@@ -31,26 +31,3 @@ public class Main {
 		ccCliente3.imprimirExtrato(); 
 	}
 }
-
-
-
-
-
-
-/*
- * //######################################################## ArrayList<Cliente>
- * Clientes = new ArrayList();
- * 
- * 
- * Clientes.add(new Cliente ("Lucas")); 
- * Clientes.add(new Cliente ("Rodrigues"));
- * Clientes.add(new Cliente ("Dias"));
- * 
- * 
- * //for (Cliente Cliente : Clientes) {System.out.println(Cliente);} for
- * (Cliente Cliente : Clientes) {System.out.println(Cliente.getNome());}
- * 
- * for (int i = 0; i < Clientes.size(); i++) {
- * //System.out.println(Cliente.get(i)); }
- * //########################################################
- */
